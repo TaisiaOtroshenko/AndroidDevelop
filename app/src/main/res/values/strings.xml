@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="taya">ОСОБЕННОСТИ СРЕДЫ ANDROID STUDIO ДЛЯ РАЗРАБОТКИ ПРИЛОЖЕНИЙ ANDROID. ПРОСТОЕ ANDROID ПРИЛОЖЕНИЕ</string>
+    <string name="sun"><u>Привет солнце</u></string>
+</resources>
